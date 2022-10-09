@@ -1,0 +1,24 @@
+django==3
+unipath
+django-redis 
+django-redis-sessions 
+django-websocket-redis 
+redis 
+pymysql 
+south 
+djangorestframework-gis
+django-rest-auth 
+django-rest-auth[with_social]
+djangorestframework 
+markdown 
+django-filter 
+django-channels 
+django-allauth 
+pygments 
+coreapi 
+pillow 
+psycopg2-binary 
+channels_redis 
+jango-extra-fields
+exponent_server_sdk
+-U Twisted[tls,http2]
