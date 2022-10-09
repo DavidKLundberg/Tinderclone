@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Valkyrie",
+    "description": "A very interesting project.",
+    "slug": "Valkyrie",
+    "privacy": "unlisted",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "facebookAppId": "373611170163327",
+    "facebookDisplayName": "VProject",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "facebookScheme": "fb373611170163327",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lundbergdavid.valkyrie"
+    },
+    "android": {
+      "package": "com.lundbergdavid.valkyrie"
+    }
+  }
+}

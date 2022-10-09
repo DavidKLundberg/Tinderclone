@@ -1,0 +1,129 @@
+{"INFP":{
+"name":"Medic",
+"intro":"The Medic search for harmony, everyone needs to find their own way in life. They are dislike confrontion and will often go to great length to prevent them. They are dreamers, who thrive in reaching for their goal. The Medic is great at inspiring people around them with their genuine ways and ability to connect on a personal level. ",
+"characteristics":{
+	1:["Idealistic",""],
+	2:["Harmious",""],
+	3:["Creative",""],
+	4:["Empathetic",""],
+},
+"aboutName":"",
+"interests":"",
+"values":"Medics are rarely driven by logic but instead their own principles and traditions tend not to matter as much as the importance of being your 'truest' self",
+
+}
+,"INFJ":{
+"name":"Counselor",
+"intro":"",
+"characteristics":{
+	1:["",""],
+	2:["",""],
+	3:["",""],
+	4:["",""],
+},
+"aboutName":"",
+"interests":"",
+"values":"",
+
+},"INTJ":{
+"name":"",
+"intro":"",
+"characteristics":{
+	1:["",""],
+	2:["",""],
+	3:["",""],
+	4:[,""],
+},
+"aboutName":"",
+"interests":"",
+"values":"",
+
+},"INTP":{
+"name":"",
+"intro":"",
+"characteristics":{
+	1:["",""],
+	2:["",""],
+	3:["",""],
+	4:["",""],
+},
+"aboutName":"",
+"interests":"",
+"values":"",
+
+},"ISFJ":{
+"name":"",
+"intro":"",
+"characteristics":{
+	1:["",""],
+	2:["",""],
+	3:["",""],
+	4:["",""],
+},
+"aboutName":"",
+"interests":"",
+"values":"",
+
+},"ISFP":{
+"name":"",
+"intro":"",
+"characteristics":{
+	1:["",""],
+	2:["",""],
+	3:["",""],
+	4:["",""],
+},
+"aboutName":"",
+"interests":"",
+"values":"",
+
+},
+"ISTP":{
+"name":"",
+"intro":"",
+"characteristics":{
+	1:["",""],
+	2:["",""],
+	3:["",""],
+	4:["",""],
+},
+"aboutName":"",
+"interests":"",
+"values":"",
+
+},"ISTJ":{
+"name":"",
+"intro":"",
+"characteristics":{
+	1:["",""],
+	2:["",""],
+	3:["",""],
+	4:["",""],
+},
+"aboutName":"",
+"interests":"",
+"values":"",
+
+}}
+
+
+
+{"ISTJ":{
+"name":"",
+"intro":"",
+"characteristics":{
+	1:["",""],
+	2:["",""],
+	3:["",""],
+	4:["",""],
+},
+"aboutName":"",
+"interests":"",
+"values":"",
+
+}}
+
+
+
+
+
